@@ -1,4 +1,4 @@
-# Web-Application-Security-Strengthening
+# Web Application Security Strengthening
 This repository contains materials from the DevelopersHub.co June 2025 internship, focusing on identifying and mitigating vulnerabilities in a user management web application.
 ## Project Overview
 This project provided hands-on experience in cybersecurity, involving the assessment of a web application for common vulnerabilities and the subsequent implementation of essential security enhancements. The goal was to build practical skills in web application security.
